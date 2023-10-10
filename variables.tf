@@ -18,12 +18,4 @@ variable "bucket_name" {
     default = "mahesh-s3-777"
 }
 
-variable "aws_access_key" {
-    default = "AKIASRHUPT6R6RYSWSFL"
-}
-
-variable "aws_secret_key" {
-    default = "Aj3OYXAfHDj/sTXG0LQoL5u3wqzDuaeRKv8GVKjq"
-}
-
 

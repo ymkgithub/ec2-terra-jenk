@@ -11,7 +11,7 @@ variable "subnet_id_value" {
 }
 
 variable "region" {
-    default = "ami-0f5ee92e2d63afc18"
+    default = "ap-south-1"
 }
 
 variable "bucket_name" {
